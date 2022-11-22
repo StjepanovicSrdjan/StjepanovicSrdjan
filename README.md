@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 I'm currently studying Software Engineering at [Faculty Of Technical Sciences](http://www.ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka)
+📫 How to reach me: srdjan.stjepanovic01@gmail.com
