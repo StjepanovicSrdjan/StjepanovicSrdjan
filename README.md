@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Master's student in Computer Science at [TU Graz](https://www.tugraz.at/en/home/)
+- 📚 Master's student in Computer Science at [TU Graz](https://www.tugraz.at/en/home/), specializing in Cybersecurity
 - 📫 How to reach me: srdjan.stjepanovic01@gmail.com
