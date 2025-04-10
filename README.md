@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 📚 Master's student in Computer Science at [TU Graz](https://www.tugraz.at/en/home/), specializing in Cybersecurity
 - 🔭 I’m currently working at [ISEC TU Graz](https://www.isec.tugraz.at/), focusing on cybersecurity research and projects
-- 📫 How to reach me: srdjan.stjepanovic01@gmail.com
+- 📫 How to reach me: srdjan.stjepanovic01@gmail.com, srdjan.stjepanovic@a-sit.at
